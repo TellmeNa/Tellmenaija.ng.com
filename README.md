@@ -1,5 +1,4 @@
 https://github.com/TellmeNaija/my-personal-website.git
-cd my-personal-website
 touch index.html styles.css
 <!DOCTYPE html>
 <html lang="en">
@@ -125,6 +124,3 @@ button {
 button:hover {
     background-color: #555;
 }
-git add .
-git commit -m "Initial commit - Added HTML and CSS files"
-git push origin main
